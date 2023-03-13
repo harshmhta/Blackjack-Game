@@ -1,4 +1,4 @@
-# Blackjack
+# Blackjack Game
 
 This is a Python implementation of Blackjack, which can be played by multiple players. The game involves drawing cards from a deck and trying to get a hand that is worth more than the dealer's hand, without going over 21.
 
